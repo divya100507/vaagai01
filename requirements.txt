@@ -1,0 +1,6 @@
+Gemini-Learning-Assistant/
+│
+├── app.py
+├── requirements.txt
+├── templates/
+└── static/
